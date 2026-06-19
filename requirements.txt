@@ -1,0 +1,6 @@
+aiohttp>=3.9
+numpy>=1.26
+PyYAML>=6.0
+rasterio>=1.4
+rich>=13.7
+

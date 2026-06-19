@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.part
+*.aria2
+_aria2.log
+_aria2_input.txt
+_exports.json
+download_failures.txt
+_arcgis_tiles/
+*.building.tif
+*.tif
+*.tiff
+.idea/
+.vscode/
+.DS_Store
