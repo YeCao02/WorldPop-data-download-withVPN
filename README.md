@@ -220,3 +220,6 @@ K:\0_worldpop_Nie\
 - `run_arcgis_downloader.cmd`：Windows + Conda GEO 快捷启动器。
 - `requirements.txt`：Python 依赖。
 
+## 致谢
+
+本项目由 [OpenAI Codex](https://openai.com/codex/) 协助设计、实现与测试。
